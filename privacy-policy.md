@@ -11,8 +11,8 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Player beats - Music does NOT collect or store any data**
 
-For utilization of Player beats - Music, the software is designed to request the READ storage permission on the device on which the software's services is intended.
-This permission has to be enabled so the software can read the storage and add music files to the Player beats - music library; the information that may be collected with the enablement of this permission is stored locally on the device, and the developer has no access to that information. It can be revoked when it is not needed.
+For utilization of Player beats - Music, the software is designed to request the READ storage permission and WRITE Storage permisson. The read permission has to be enabled so the software can read the storage and add music files to Player beats.
+And write permission is for editing media meta tags as per user choice. The information that may be collected with the enablement of this permission is stored locally on the device, and the developer has no access to that information. It can be revoked when it is not needed.
 
 Other capabilities of the software are:
 * Ability to modify audio settings to apply Equalizer settings.
